@@ -1,0 +1,8 @@
+[package]
+name = "bigint_test"
+version = "0.1.0"
+authors = ["debris <marek.kotewicz@gmail.com>"]
+
+[dependencies]
+bigint = "4.0"
+crunchy = "=0.1.3"
